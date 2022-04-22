@@ -2,7 +2,7 @@
 
 Storybook is here:
 
-- Production: <https://ucsb-cs156-s22.github.io/jpa03-skylartwinig-docs>
+- Production: <https://ucsb-cs156-s22.github.io/jpa03-skylartwinig-docs/>
 - QA: <https://ucsb-cs156-s22.github.io/jpa03-skylartwinig-docs-qa>
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
